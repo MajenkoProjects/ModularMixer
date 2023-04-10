@@ -1,0 +1,383 @@
+ha:cschem-group-v1 {
+	ha:group.1 {
+		src_uuid=nBvgzKkoFRSHCXnxQxQAAAKi;
+		li:objects {
+			ha:group.1 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALA; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIE;
+				x=24000; y=12000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=21
+					role=terminal
+				}
+			}
+			ha:group.2 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALB; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIF;
+				x=24000; y=8000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=20
+					role=terminal
+				}
+			}
+			ha:group.3 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALC; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIG;
+				x=24000; y=4000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=19
+					role=terminal
+				}
+			}
+			ha:group.4 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALD; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIH;
+				x=24000; y=0;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=18
+					role=terminal
+				}
+			}
+			ha:group.5 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALE; src_uuid=nBvgzKkoFRSHCXnxQxQAAAII;
+				x=24000; y=-4000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=17
+					role=terminal
+				}
+			}
+			ha:group.6 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALF; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIJ;
+				x=24000; y=-8000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=16
+					role=terminal
+				}
+			}
+			ha:group.7 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALG; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIL;
+				x=24000; y=-12000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=15
+					role=terminal
+				}
+			}
+			ha:group.8 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALH; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIE;
+				x=-24000; y=12000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=1
+					role=terminal
+				}
+			}
+			ha:group.9 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALI; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIF;
+				x=-24000; y=8000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=2
+					role=terminal
+				}
+			}
+			ha:group.10 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALJ; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIG;
+				x=-24000; y=4000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=3
+					role=terminal
+				}
+			}
+			ha:group.11 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALK; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIH;
+				x=-24000; y=0; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=4
+					role=terminal
+				}
+			}
+			ha:group.12 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALL; src_uuid=nBvgzKkoFRSHCXnxQxQAAAII;
+				x=-24000; y=-4000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=5
+					role=terminal
+				}
+			}
+			ha:group.13 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALM; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIJ;
+				x=-24000; y=-8000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=6
+					role=terminal
+				}
+			}
+			ha:group.14 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALN; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIL;
+				x=-24000; y=-12000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=7
+					role=terminal
+				}
+			}
+			ha:group.15 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALO; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIE;
+				x=-12000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=28
+					role=terminal
+				}
+			}
+			ha:group.16 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALP; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIF;
+				x=-4000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=26
+					role=terminal
+				}
+			}
+			ha:group.17 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALQ; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIG;
+				x=-8000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=27
+					role=terminal
+				}
+			}
+			ha:group.18 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALR; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIH;
+				x=4000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=24
+					role=terminal
+				}
+			}
+			ha:group.19 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALS; src_uuid=nBvgzKkoFRSHCXnxQxQAAAII;
+				x=0; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=25
+					role=terminal
+				}
+			}
+			ha:group.20 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALT; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIJ;
+				x=8000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=23
+					role=terminal
+				}
+			}
+			ha:group.21 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALU; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIL;
+				x=12000; y=24000; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=22
+					role=terminal
+				}
+			}
+			ha:group.22 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALV; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIE;
+				x=-12000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=8
+					role=terminal
+				}
+			}
+			ha:group.23 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALW; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIF;
+				x=-8000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=9
+					role=terminal
+				}
+			}
+			ha:group.24 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALX; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIG;
+				x=0; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=11
+					role=terminal
+				}
+			}
+			ha:group.25 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALY; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIH;
+				x=-4000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=10
+					role=terminal
+				}
+			}
+			ha:group.26 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALZ; src_uuid=nBvgzKkoFRSHCXnxQxQAAAII;
+				x=8000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=13
+					role=terminal
+				}
+			}
+			ha:group.27 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALa; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIJ;
+				x=4000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=12
+					role=terminal
+				}
+			}
+			ha:group.28 {
+				uuid=nBvgzKkoFRSHCXnxQxQAAALb; src_uuid=nBvgzKkoFRSHCXnxQxQAAAIL;
+				x=12000; y=-24000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=14
+					role=terminal
+				}
+			}
+			ha:line.29 { x1=-20000; y1=16000; x2=-16000; y2=20000; stroke=sym-decor; }
+			ha:line.30 { x1=-16000; y1=20000; x2=20000; y2=20000; stroke=sym-decor; }
+			ha:line.31 { x1=20000; y1=20000; x2=20000; y2=-20000; stroke=sym-decor; }
+			ha:line.32 { x1=20000; y1=-20000; x2=-20000; y2=-20000; stroke=sym-decor; }
+			ha:line.33 { x1=-20000; y1=-20000; x2=-20000; y2=16000; stroke=sym-decor; }
+			ha:text.34 { x1=-4000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=MCLR; }
+			ha:text.35 { x1=-8000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=RA0; }
+			ha:text.36 { x1=-12000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=RA1; }
+			ha:text.37 { x1=-19000; y1=12000; dyntext=0; stroke=sym-decor; text=RB0; }
+			ha:text.38 { x1=-19000; y1=8000; dyntext=0; stroke=sym-decor; text=RB1; }
+			ha:text.39 { x1=-19000; y1=4000; dyntext=0; stroke=sym-decor; text=RB2; }
+			ha:text.40 { x1=-19000; y1=0; dyntext=0; stroke=sym-decor; text=RB3; }
+			ha:text.41 { x1=-19000; y1=-4000; dyntext=0; stroke=sym-decor; text=VSS; }
+			ha:text.42 { x1=-19000; y1=-8000; dyntext=0; stroke=sym-decor; text=RA2; }
+			ha:text.43 { x1=-19000; y1=-12000; dyntext=0; stroke=sym-decor; text=RA3; }
+			ha:text.44 { x1=-12000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=RB4; }
+			ha:text.45 { x1=-8000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=RA4; }
+			ha:text.46 { x1=-4000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=VDD; }
+			ha:text.47 { x1=0; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=RB5; }
+			ha:text.48 { x1=4000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=VBUS; }
+			ha:text.49 { x1=8000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=RB7; }
+			ha:text.50 { x1=12000; y1=-19000; rot=90.000000; dyntext=0; stroke=sym-decor; text=RB8; }
+			ha:text.51 { x1=19000; y1=-12000; mirx=1; dyntext=0; stroke=sym-decor; text=RB9; }
+			ha:text.52 { x1=19000; y1=-8000; mirx=1; dyntext=0; stroke=sym-decor; text=VSS; }
+			ha:text.53 { x1=19000; y1=-4000; mirx=1; dyntext=0; stroke=sym-decor; text=VCAP; }
+			ha:text.54 { x1=19000; y1=0; mirx=1; dyntext=0; stroke=sym-decor; text=RB10; }
+			ha:text.55 { x1=19000; y1=4000; mirx=1; dyntext=0; stroke=sym-decor; text=RB11; }
+			ha:text.56 { x1=19000; y1=8000; mirx=1; dyntext=0; stroke=sym-decor; text=VUSB3V3; }
+			ha:text.57 { x1=19000; y1=12000; mirx=1; dyntext=0; stroke=sym-decor; text=RB13; }
+			ha:text.58 { x1=12000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=RB14; }
+			ha:text.59 { x1=8000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=RB15; }
+			ha:text.60 { x1=4000; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=AVSS; }
+			ha:text.61 { x1=0; y1=19000; rot=270.000000; mirx=1; dyntext=0; stroke=sym-decor; text=AVDD; }
+			ha:text.62 { x1=16000; y1=24000; dyntext=1; stroke=sym-primary; text=%../A.name%; floater=1; }
+			ha:text.63 { x1=-12000; y1=0; dyntext=1; stroke=sym-secondary; text=%../A.device%; floater=1; }
+		}
+		ha:attrib {
+			device=PIC32MX2xxFyyy-I/ML
+			name=U?
+			role=symbol
+		}
+	}
+}
