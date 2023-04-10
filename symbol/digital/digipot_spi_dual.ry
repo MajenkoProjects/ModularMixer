@@ -1,0 +1,228 @@
+ha:cschem-group-v1 {
+	ha:group.1 {
+		src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQ3;
+		x=4000; y=20000;
+		li:objects {
+			ha:group.1 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARH; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAP/;
+				x=8000; y=-8000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=P0B
+					role=terminal
+				}
+			}
+			ha:group.2 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARI; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQA;
+				x=8000; y=-12000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=W0
+					role=terminal
+				}
+			}
+			ha:group.3 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARJ; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQB;
+				x=8000; y=-16000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=P0A
+					role=terminal
+				}
+			}
+			ha:group.4 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARK; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQC;
+				x=8000; y=-24000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=P1B
+					role=terminal
+				}
+			}
+			ha:group.5 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARL; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQD;
+				x=8000; y=-28000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=W1
+					role=terminal
+				}
+			}
+			ha:group.6 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARM; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQE;
+				x=8000; y=-32000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=P1A
+					role=terminal
+				}
+			}
+			ha:group.7 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARN; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQF;
+				x=-16000; y=-8000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=SI
+					role=terminal
+				}
+			}
+			ha:group.8 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARO; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQG;
+				x=-16000; y=-12000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=SO
+					role=terminal
+				}
+			}
+			ha:group.9 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARP; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQH;
+				x=-16000; y=-16000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=SCK
+					role=terminal
+				}
+			}
+			ha:group.10 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARQ; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQI;
+				x=-16000; y=-20000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name={CS#}
+					role=terminal
+				}
+			}
+			ha:group.11 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARR; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQJ;
+				x=-16000; y=-24000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name={RS#}
+					role=terminal
+				}
+			}
+			ha:group.12 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARS; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQK;
+				x=-16000; y=-28000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name={SHDN#}
+					role=terminal
+				}
+			}
+			ha:group.13 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAART; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQL;
+				x=-4000; y=0; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=VDD
+					role=terminal
+				}
+			}
+			ha:group.14 {
+				uuid=Mn6K7gaZfMoPBT2+M4YAAARU; src_uuid=Mn6K7gaZfMoPBT2+M4YAAAQM;
+				x=-4000; y=-40000; rot=270.000000; mirx=1;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=VSS
+					role=terminal
+				}
+			}
+			ha:line.15 { x1=4000; y1=-8000; x2=0; y2=-8000; stroke=sym-decor; }
+			ha:line.16 { x1=4000; y1=-16000; x2=0; y2=-16000; stroke=sym-decor; }
+			ha:line.17 { x1=0; y1=-8000; x2=0; y2=-9000; stroke=sym-decor; }
+			ha:line.18 { x1=0; y1=-16000; x2=0; y2=-15000; stroke=sym-decor; }
+			ha:line.19 { x1=0; y1=-9000; x2=1000; y2=-10000; stroke=sym-decor; }
+			ha:line.20 { x1=1000; y1=-10000; x2=-1000; y2=-11000; stroke=sym-decor; }
+			ha:line.21 { x1=-1000; y1=-11000; x2=1000; y2=-12000; stroke=sym-decor; }
+			ha:line.22 { x1=1000; y1=-12000; x2=-1000; y2=-13000; stroke=sym-decor; }
+			ha:line.23 { x1=-1000; y1=-13000; x2=1000; y2=-14000; stroke=sym-decor; }
+			ha:line.24 { x1=1000; y1=-14000; x2=0; y2=-15000; stroke=sym-decor; }
+			ha:line.25 { x1=4000; y1=-12000; x2=1000; y2=-12000; stroke=sym-decor; }
+			ha:line.26 { x1=1000; y1=-12000; x2=3000; y2=-11000; stroke=sym-decor; }
+			ha:line.27 { x1=1000; y1=-12000; x2=3000; y2=-13000; stroke=sym-decor; }
+			ha:line.28 { x1=1000; y1=-28000; x2=-1000; y2=-29000; stroke=sym-decor; }
+			ha:line.29 { x1=-1000; y1=-29000; x2=1000; y2=-30000; stroke=sym-decor; }
+			ha:line.30 { x1=1000; y1=-30000; x2=0; y2=-31000; stroke=sym-decor; }
+			ha:line.31 { x1=4000; y1=-28000; x2=1000; y2=-28000; stroke=sym-decor; }
+			ha:line.32 { x1=1000; y1=-28000; x2=3000; y2=-27000; stroke=sym-decor; }
+			ha:line.33 { x1=1000; y1=-28000; x2=3000; y2=-29000; stroke=sym-decor; }
+			ha:line.34 { x1=4000; y1=-24000; x2=0; y2=-24000; stroke=sym-decor; }
+			ha:line.35 { x1=4000; y1=-32000; x2=0; y2=-32000; stroke=sym-decor; }
+			ha:line.36 { x1=0; y1=-24000; x2=0; y2=-25000; stroke=sym-decor; }
+			ha:line.37 { x1=0; y1=-32000; x2=0; y2=-31000; stroke=sym-decor; }
+			ha:line.38 { x1=0; y1=-25000; x2=1000; y2=-26000; stroke=sym-decor; }
+			ha:text.39 { x1=-10000; y1=-8000; dyntext=0; stroke=sym-decor; text=SI; }
+			ha:text.40 { x1=-10000; y1=-12000; dyntext=0; stroke=sym-decor; text=SO; }
+			ha:text.41 { x1=-10000; y1=-16000; dyntext=0; stroke=sym-decor; text=SCK; }
+			ha:line.42 { x1=1000; y1=-26000; x2=-1000; y2=-27000; stroke=sym-decor; }
+			ha:line.43 { x1=-1000; y1=-27000; x2=1000; y2=-28000; stroke=sym-decor; }
+			ha:polygon.44 {
+				li:outline {
+					ha:line { x1=-12000; y1=-4000; x2=-12000; y2=-36000; }
+					ha:line { x1=-12000; y1=-36000; x2=4000; y2=-36000; }
+					ha:line { x1=4000; y1=-36000; x2=4000; y2=-4000; }
+					ha:line { x1=4000; y1=-4000; x2=-12000; y2=-4000; }
+				}
+				stroke=sym-decor;
+			}
+			ha:text.45 { x1=0; y1=-8000; dyntext=0; stroke=sym-decor; text=0B; }
+			ha:text.46 { x1=0; y1=-19000; dyntext=0; stroke=sym-decor; text=0A; }
+			ha:text.47 { x1=0; y1=-24000; dyntext=0; stroke=sym-decor; text=1B; }
+			ha:text.48 { x1=-10000; y1=-20000; dyntext=0; stroke=sym-decor; text=CS; }
+			ha:text.49 { x1=-10000; y1=-24000; dyntext=0; stroke=sym-decor; text=RS; }
+			ha:text.50 { x1=-10000; y1=-28000; dyntext=0; stroke=sym-decor; text=SHDN; }
+			ha:text.51 { x1=0; y1=-35000; dyntext=0; stroke=sym-decor; text=1A; }
+			ha:text.52 { x1=-2000; y1=-9000; rot=90.000000; dyntext=0; stroke=sym-decor; text=VDD; }
+			ha:text.53 { x1=-2000; y1=-35000; rot=90.000000; dyntext=0; stroke=sym-decor; text=VSS; }
+			ha:text.54 { x1=-2000; y1=-2000; dyntext=1; stroke=sym-primary; text=%../A.name%; floater=1; }
+		}
+		ha:attrib {
+			name=REFDES
+			role=symbol
+		}
+	}
+}

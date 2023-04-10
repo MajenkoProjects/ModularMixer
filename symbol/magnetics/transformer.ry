@@ -1,0 +1,68 @@
+ha:cschem-group-v1 {
+	ha:group.1 {
+		src_uuid=FJTdh8CXI0wmXfEvXIIAAAIk;
+		li:objects {
+			ha:arc.1 { cx=2000; cy=-12000; r=2000; sang=0.000000; dang=180.000000; stroke=sym-decor; }
+			ha:arc.2 { cx=6000; cy=-12000; r=2000; sang=0.000000; dang=180.000000; stroke=sym-decor; }
+			ha:arc.3 { cx=10000; cy=-12000; r=2000; sang=0.000000; dang=180.000000; stroke=sym-decor; }
+			ha:arc.4 { cx=2000; cy=-4000; r=2000; sang=180.000000; dang=180.000000; stroke=sym-decor; }
+			ha:arc.5 { cx=6000; cy=-4000; r=2000; sang=180.000000; dang=180.000000; stroke=sym-decor; }
+			ha:arc.6 { cx=10000; cy=-4000; r=2000; sang=180.000000; dang=180.000000; stroke=sym-decor; }
+			ha:line.7 { x1=0; y1=-9000; x2=12000; y2=-9000; stroke=sym-decor; }
+			ha:line.8 { x1=0; y1=-7000; x2=12000; y2=-7000; stroke=sym-decor; }
+			ha:group.9 {
+				uuid=FJTdh8CXI0wmXfEvXIIAAAIq; src_uuid=FJTdh8CXI0wmXfEvXIIAAAIR;
+				rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=1
+					role=terminal
+				}
+			}
+			ha:group.10 {
+				uuid=FJTdh8CXI0wmXfEvXIIAAAIr; src_uuid=FJTdh8CXI0wmXfEvXIIAAAIS;
+				x=12000; y=0; rot=90.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; miry=1; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=2
+					role=terminal
+				}
+			}
+			ha:group.11 {
+				uuid=FJTdh8CXI0wmXfEvXIIAAAIs; src_uuid=FJTdh8CXI0wmXfEvXIIAAAIT;
+				x=12000; y=-16000; rot=270.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; rot=180.000000; mirx=1; miry=1; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=3
+					role=terminal
+				}
+			}
+			ha:group.12 {
+				uuid=FJTdh8CXI0wmXfEvXIIAAAIt; src_uuid=FJTdh8CXI0wmXfEvXIIAAAIU;
+				x=0; y=-16000; rot=270.000000;
+				li:objects {
+					ha:line.1 { x1=0; y1=0; x2=-4000; y2=0; stroke=term-decor; }
+					ha:text.2 { x1=-4000; y1=0; rot=180.000000; mirx=1; dyntext=1; stroke=term-primary; text=%../a.display/name%; }
+				}
+				ha:attrib {
+					name=4
+					role=terminal
+				}
+			}
+			ha:text.13 { x1=2000; y1=-2000; dyntext=1; stroke=sym-primary; text=%../A.name%; floater=1; }
+		}
+		ha:attrib {
+			name=T?
+			role=symbol
+		}
+	}
+}

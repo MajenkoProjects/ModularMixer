@@ -1,0 +1,30 @@
+ha:std_devmap.v1 {
+	ha:comp_attribs {
+		footprint=so(14)
+		li:portmap={
+			{1/out -> pcb/pinnum=1}
+			{1/in- -> pcb/pinnum=2}
+			{1/in+ -> pcb/pinnum=3}
+			{1/V+ -> pcb/pinnum=4}
+			{1/V- -> pcb/pinnum=11}
+
+			{2/out -> pcb/pinnum=7}
+			{2/in- -> pcb/pinnum=6}
+			{2/in+ -> pcb/pinnum=5}
+			{2/V+ -> pcb/pinnum=4}
+			{2/V- -> pcb/pinnum=11}
+
+			{3/out -> pcb/pinnum=8}
+			{3/in- -> pcb/pinnum=9}
+			{3/in+ -> pcb/pinnum=10}
+			{3/V+ -> pcb/pinnum=4}
+			{3/V- -> pcb/pinnum=11}
+
+			{4/out -> pcb/pinnum=14}
+			{4/in- -> pcb/pinnum=13}
+			{4/in+ -> pcb/pinnum=12}
+			{4/V+ -> pcb/pinnum=4}
+			{4/V- -> pcb/pinnum=11}
+		}
+	}
+}
